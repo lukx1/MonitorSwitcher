@@ -1,0 +1,7 @@
+[development]
+ip = "127.0.0.1"
+port = 7443
+
+[production]
+ip = "192.168.1.39"
+port = 7444
